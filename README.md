@@ -7,12 +7,6 @@
   <a href="https://github.com/eriveltongoncalo/fetch-github-repository#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/eriveltongoncalo/fetch-github-repository/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/eriveltongoncalo/fetch-github-repository/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/eriveltongoncalo/fetch-github-repository" />
-  </a>
   <a href="https://twitter.com/eriveltonjesus7" target="_blank">
     <img alt="Twitter: eriveltonjesus7" src="https://img.shields.io/twitter/follow/eriveltonjesus7.svg?style=social" />
   </a>
