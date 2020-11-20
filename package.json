@@ -2,16 +2,6 @@
   "name": "fetch-github-repository",
   "version": "1.0.0",
   "description": "Simple project made in React that fetch repositories through github's API.",
-  "author": "Erivelton Jesus",
-  "license": "MIT",
-  "homepage": "https://github.com/eriveltongoncalo/fetch-github-repository#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/eriveltongoncalo/fetch-github-repository.git"
-  },
-  "bugs": {
-    "url": "https://github.com/eriveltongoncalo/fetch-github-repository/issues"
-  },
   "engines": {
     "node": "v13.7.0",
     "npm": "6.13.6",
