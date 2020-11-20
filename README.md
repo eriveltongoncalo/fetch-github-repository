@@ -28,12 +28,6 @@
 - npm 6.13.6
 - yarn 1.16.0
 
-## Install
-
-```sh
-yarn install
-```
-
 ## Usage
 
 ```sh
@@ -55,10 +49,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
-
-Copyright © 2020 [Erivelton Jesus](https://github.com/eriveltongoncalo).<br />
-This project is [MIT](https://github.com/eriveltongoncalo/fetch-github-repository/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
