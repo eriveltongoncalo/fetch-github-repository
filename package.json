@@ -1,9 +1,22 @@
 {
-  "name": "github-repository-searcher",
+  "name": "fetch-github-repository",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple project made in React that fetch repositories through github's API.",
   "author": "Erivelton Jesus",
-  "private": true,
+  "license": "MIT",
+  "homepage": "https://github.com/eriveltongoncalo/fetch-github-repository#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriveltongoncalo/fetch-github-repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eriveltongoncalo/fetch-github-repository/issues"
+  },
+  "engines": {
+    "node": "v13.7.0",
+    "npm": "6.13.6",
+    "yarn": "1.16.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -16,6 +29,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
     "styled-components": "^5.2.0"
+
   },
   "scripts": {
     "start": "react-scripts start",
