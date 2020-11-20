@@ -37,7 +37,7 @@ yarn run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/eriveltongoncalo/fetch-github-repository/issues). You can also take a look at the [contributing guide](https://github.com/eriveltongoncalo/fetch-github-repository/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/eriveltongoncalo/fetch-github-repository/issues). 
 
 ## Show your support
 
