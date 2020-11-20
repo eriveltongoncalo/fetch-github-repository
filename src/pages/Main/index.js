@@ -78,7 +78,7 @@ export default class Main extends Component {
       <Container>
         <h1>
           <FaGithubAlt />
-          Repositórios
+          Repositories
         </h1>
 
         <Form onSubmit={this.handleSubmit}>
@@ -86,7 +86,7 @@ export default class Main extends Component {
             <Input
               repoNotFound={repoNotFound}
               type="text"
-              placeholder="Adicionar repositórios"
+              placeholder="Add repositories"
               value={newRepo}
               onChange={this.handleInputChange}
             />
@@ -102,7 +102,7 @@ export default class Main extends Component {
 
           <Warning
             show={repoNotFound}
-            msg="Repositório não encontrado"
+            msg="Repository not found."
             fontColor="#d93025"
           />
         </Form>
@@ -112,7 +112,7 @@ export default class Main extends Component {
             <li key={repository.name}>
               <span>{repository.name}</span>
               <Link to={`/repository/${encodeURIComponent(repository.name)}`}>
-                Detalhes
+                Details
               </Link>
             </li>
           ))}

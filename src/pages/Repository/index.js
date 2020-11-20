@@ -134,7 +134,7 @@ export default class Repository extends Component {
     return (
       <Container>
         <Owner>
-          <Link to="/">Voltar aos repositórios</Link>
+          <Link to="/">Back to repositories</Link>
           <img src={repository.owner.avatar_url} alt={repository.owner.login} />
           <h1>{repository.name}</h1>
           <p>{repository.description}</p>
@@ -143,7 +143,7 @@ export default class Repository extends Component {
         <Form onSubmit={this.filterIssue}>
           <input
             type="text"
-            placeholder="Filtrar issues (all, open ou closed)"
+            placeholder="Filter issues (all, open ou closed)"
             onChange={this.handleInputChage}
             value={stateIssue}
           />
