@@ -14,6 +14,10 @@
 
 > Simple project made in React that fetch repositories through github's API.
 
+<div align="center">
+  <img src="https://github.com/eriveltongoncalo/fetch-github-repository/blob/main/fetch-repo-example.gif" />
+ </div>
+
 ### 🏠 [Homepage](https://github.com/eriveltongoncalo/fetch-github-repository#readme)
 
 ## Prerequisites
