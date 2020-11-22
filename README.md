@@ -18,8 +18,6 @@
   <img src="https://github.com/eriveltongoncalo/fetch-github-repository/blob/main/fetch-repo-example.gif" />
  </div>
 
-### 🏠 [Homepage](https://github.com/eriveltongoncalo/fetch-github-repository#readme)
-
 ## Prerequisites
 
 - node v13.7.0
