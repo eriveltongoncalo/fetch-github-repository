@@ -14,9 +14,6 @@
 
 > Simple project made in React that fetch repositories through github's API.
 
-<iframe src="https://gfycat.com/ifr/CheapGargantuanGavial" style="width:100%; height:300px;"></iframe>
-
-
 ### 🏠 [Homepage](https://github.com/eriveltongoncalo/fetch-github-repository#readme)
 
 ## Prerequisites
